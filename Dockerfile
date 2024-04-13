@@ -9,7 +9,6 @@ ADD requirements.txt .
 RUN apk add  nano  \
 pip install -r requirements.txt \
 .
-
 ADD   
 
 
